@@ -1,4 +1,7 @@
 description: A new TrueGRF project
-license: CC0-1.0
+grfid: f2259bf3
+license: CC-BY-4.0
+name: randomnames
 type: townname
+url: https://github.com/SkyloKobe/randomnames
 version: 6
